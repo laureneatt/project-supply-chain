@@ -1,5 +1,5 @@
-# project-supply-chain
-## Analyse et Prédiction de la Satisfaction Client à partir des Avis Consommateurs
+# 🚀 project-supply-chain
+## 📊 Analyse et Prédiction de la Satisfaction Client à partir des Avis Consommateurs
 
 ## Table des matières  
 1. [Contexte](#contexte)  
