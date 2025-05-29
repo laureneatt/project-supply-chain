@@ -1,4 +1,4 @@
-# 🚀 project-supply-chain
+# 🚀 Supply Chain - Satisfaction des clients
 ## 📊 Analyse et Prédiction de la Satisfaction Client à partir des Avis Consommateurs
 
 ## Table des matières  
