@@ -30,6 +30,7 @@ La **satisfaction client** est un indicateur clé dans la gestion de la Supply C
 ## Données
 
 Les données proviennent de sources d'avis clients telles que **Trustpilot** et **Trusted Shops**, et sont issues de deux entreprises : **Veepee** et **ShowRoom**.
+Les données du dataset sont accessibles dans le fichier CSV [`reviews_trust.csv`](./reviews_trust.csv)
 
 ### Description des Variables
 
