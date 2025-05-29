@@ -12,7 +12,7 @@
 
 ## Contexte
 
-Dans le cadre de la formation **DataScientest**, ce projet vise à appliquer des méthodes de traitement automatique du langage naturel (NLP) et de machine learning à des données textuelles issues de la supply chain.
+Ce projet, réalisé dans le cadre de la formation **Datascientest**, a pour objectif d'explorer et d'analyser un jeu de données d'avis clients afin de mieux comprendre les facteurs influençant la satisfaction.  
 
 La **satisfaction client** est un indicateur clé dans la gestion de la Supply Chain. Elle est influencée par des facteurs comme la livraison, la qualité des produits ou la réactivité du service client. Les **avis en ligne** représentent une source précieuse pour comprendre les attentes des consommateurs et identifier les points de friction. Cependant, leur nature non structurée (commentaires textuels, étoiles, réponses) rend leur exploitation complexe sans traitement automatisé.
 
