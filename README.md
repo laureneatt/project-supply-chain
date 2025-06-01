@@ -52,7 +52,7 @@ Les données du dataset sont accessibles dans le fichier CSV [`reviews_trust.csv
 | `date_commande`  | Date de la commande |
 | `date`           | Date de publication de l’avis |
 | `maj`            | Date de mise à jour éventuelle de l’avis |
-| `client`         | Identifiant du client (sera supprimé) |
+| `client`         | Identifiant du client |
 
 ---
 
