@@ -88,7 +88,6 @@ Les données du dataset sont accessibles dans le fichier CSV [`reviews_trust.csv
   - Visualisations des données et statistiques clés  
   - Synthèses des modèles de prédiction  
 - Objectif : rendre les résultats et analyses accessibles et interactifs  
-- Outils utilisés : `streamlit`, `pandas`, `matplotlib`/`seaborn`  .. (à ajouter)
 
   ## Ressources Supplémentaires
 
